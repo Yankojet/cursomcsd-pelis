@@ -1,1 +1,10 @@
-# mis pelis favoritas
+# Mis pelis favoritas 
+
+
+###Javascript
+
+###Jquery
+
+###CC3
+
+
