@@ -7,6 +7,7 @@
 }
 
 .item-pelicula {
+    background-color:darkgoldenrod;
     border: solid 2px #808080;
     float: left;
     margin-left: 8px;
